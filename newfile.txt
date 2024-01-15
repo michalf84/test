@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kompletnie nowy tekst:
+=======
+Nowy proces na brnachu
+>>>>>>> parent of e8f12a9 (Update newfile.txt)
