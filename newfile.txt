@@ -1,3 +1,4 @@
 Nowy proces na brnachu
 DODALEM NOWE ONLIN
-dodtkowe a dane
+dodtkowe a dan
+Dane nowe na develop only!!
