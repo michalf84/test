@@ -1,5 +1,5 @@
 clean 1
 test nowy rekord
-i jescze jedene
+KONFLIKT!!  
 DODALEM ZADNAIE LOKALNIE
 dodalem ZdAlNiEEE
