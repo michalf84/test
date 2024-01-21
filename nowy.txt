@@ -1,3 +1,4 @@
 clean 1
 test nowy rekord
 i jescze jedene
+DODALEM ZADNAIE LOKALNIE
