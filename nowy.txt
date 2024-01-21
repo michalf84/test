@@ -1,5 +1,9 @@
 clean 1
 test nowy rekord
+<<<<<<< HEAD
 KONFLIKT!!  
+=======
+konflikz ZMIANA LOALNA:w
+>>>>>>> 53dbc5f (konflikt)
 DODALEM ZADNAIE LOKALNIE
 dodalem ZdAlNiEEE
