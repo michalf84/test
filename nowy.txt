@@ -1,1 +1,2 @@
 clean 1
+test nowy rekord
